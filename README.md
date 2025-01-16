@@ -1,4 +1,4 @@
-# CSE 30124 Programming Challenges (Spring 2025) - Assignments
+# CSE 30124 Intro to AI (Spring 2025) - Assignments
 
 This is the [CSE-30124-SP25] homeworks repository for:
 
